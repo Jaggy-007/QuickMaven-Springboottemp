@@ -20,6 +20,9 @@
         <profile>
             <id>QA</id>
         </profile>
+        <profile>
+            <id>PROD</id>
+        </profile>
     </profiles>
 <dependencyManagement>
     <dependencies>
